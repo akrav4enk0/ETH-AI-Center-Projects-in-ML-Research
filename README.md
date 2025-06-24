@@ -64,9 +64,7 @@ It includes detailed sections on:
 ---
 
 ## Authors
-Aydin Javadov: Model architecture & training, experimentation, visualizations
-
-Anna Kravchenko: Initial prototyping, theoretical structuring, poster layout & writing
+Aydin Javadov, Anna Kravchenko
 
 ## References
 1. F. Lehmann, F. Gatti, M. Bertin, D. Clouteau. Synthetic ground motions in heterogeneous geolo- gies: the HEMEW-3D dataset for scientific machine learning. Earth System Science Data, 2024. https: //doi.org/10.5194/essd-16-3949-2024
