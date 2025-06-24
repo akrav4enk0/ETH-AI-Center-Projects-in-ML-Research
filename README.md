@@ -50,7 +50,7 @@ The model showed promising qualitative performance, particularly in capturing st
 
 ---
 
-## 🖼 Poster
+## Poster
 You can find the final poster here.
 It includes detailed sections on:
 
